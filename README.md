@@ -32,7 +32,7 @@ Graphviz — инструмент для визуализации кода.
 
 sudo apt install clang llvm
 
-![image](https://github.com/user-attachments/assets/63f57b94-2ccf-4d1e-9dc6-d1477f24bfee)
+![image](https://github.com/user-attachments/assets/863f46fb-f8fc-4631-9a4e-ef2c206b873e)
 
 C-файл:
 
